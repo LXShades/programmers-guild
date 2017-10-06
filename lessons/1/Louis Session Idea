@@ -1,0 +1,91 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Programmer's Guild</title>
+  <meta name="description" content="An outline of this week's agenda.">
+  <meta name="author" content="Falmouth University Games Academy">
+
+  <link rel="stylesheet" href="../../css/main.css">
+
+</head>
+
+<body>
+  <p>
+      Rev your engines for the <b>Robot Races!</b><br />
+      In teams of 3-4 you will <b>design and build</b> a <b>super-robot</b> in <b>LEGO MINDSTORMS</b> that will <b>race</b> against the others in a <b>3-lap loop</b> around the game studio.<br />
+      Robots <b>must pass several marked checkpoints</b> along the path to be considered eligible for the next lap.<br />
+      The race commences in Session [x]
+  </p>
+
+  <b>Learning Objectives:</b>
+
+  <ul>
+      <li><b>Plan</b> a remote-controlled robot, with an aptitude for <b>moving supah-fast</b> and optionally <b>weapon(s) to obstruct other racers</b></li>
+      <li>Use the <b>agile development philosophy</b> to build and program the robot components within your group</li>
+      <li>Be the <b>very best</b> like <b>no-one ever was</b></li>
+  </ul>
+
+  <b>Agenda:</b>
+
+  <table>
+    <tbody>
+      <tr>
+        <td> 0000 - 0010 </td>
+        <td> Arrival and Registration </td>
+      </tr>
+
+      <tr>
+        <td> 0010 - 0140 </td>
+        <td> Robot Construction</td>
+      </tr>
+
+      <tr>
+        <td> 0140 - 0200 </td>
+        <td> Coffee Break </td>
+      </tr>
+
+      <tr>
+        <td> 0200 - 0245 </td>
+        <td> General Programming Support and Discussion </td>
+      </tr>
+
+      <tr>
+        <td> 0245 - 0250 </td>
+        <td> Debrief </td>
+      </tr>
+	  
+      <tr>
+        <td> 0250 - 0300 </td>
+        <td> Departure </td>
+      </tr>
+
+    </tbody>
+  </table>
+  
+  <br />
+  <b>Further Guidance:</b><br />
+
+  <ul>
+      <li>
+          TBC - Please supply further guidence that makes clear what learners should be doing
+      </li>
+  </ul> 
+  
+  <br />
+  <b>Further Learning:</b><br />
+
+  <ul>
+      <li>Read <b><a href="http://www.trustedreviews.com/opinion/best-top-robot-wars-robots-2939336">7 Coolest Robot Wars robots by Joe Roberts</a></b> for inspiration in gratuitous robotic violence.</li>
+  </ul>
+
+  <b>Resources:</b>
+
+  <ul>
+      <li><a href="https://education.lego.com/en-gb">Lego Mindstorms educational website</a></li>
+  </ul>
+
+</body>
+</html>
